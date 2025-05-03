@@ -1,16 +1,29 @@
-## Hi there 👋
+ 👋 Hi, I'm Kashmala Zeb
 
-<!--
-**kashmala-zeb/KASHMALA-ZEB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student at COMSATS University, Abbottabad  
+💡 On a mission to build tools that help people and solve real-life problems.
+💻 Learning JavaScript | React | Java | SQL   
+✨ Dreaming to become a top Software Engineer and support my family  
+📫 Reach me at: malaxeb7@gmail.com 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ 🧰 My Skills
+- 💻 Programming: Java, C, JavaScript
+- 🌐 Web: HTML, CSS, Bootstrap, React (basic)
+- 🗃️ Database: MySQL, SQL Server
+
+
+
+ 📂 Projects
+- [Transport Management System in JAVASCRIPT]
+- [Virtual Fitness Studio with AI Trainer website in REACT]
+- [Bank Management System in Java]
+
+
+
+🧠 Currently Learning
+- Software Design and Architecture
+- Computer Networks
+- Backend
+
