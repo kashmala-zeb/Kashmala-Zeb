@@ -1,4 +1,5 @@
  👋 Hi, I'm Kashmala Zeb
+![WhatsApp Image 2025-05-30 at 17 12 01_62c4c61f](https://github.com/user-attachments/assets/bfdfa223-48cb-4cfd-a497-0686190179a7)
 
 🎓 Software Engineering Student at COMSATS University, Abbottabad  
 💡 On a mission to build tools that help people and solve real-life problems.
