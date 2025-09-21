@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kashmala Zeb
 
-<img src="https://github.com/user-attachments/assets/bfdfa223-48cb-4cfd-a497-0686190179a7" alt="Banner" style="width:100%;"/>
+<img src="https://photos.app.goo.gl/cbf6t1xzhB5cJurP8" alt="Banner" style="width:100%;"/>
 
 ## 🎓 About Me  
 I'm a **Software Engineering Student** at *COMSATS University, Abbottabad*.  
